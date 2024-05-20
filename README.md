@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### About Me:    
 I'm a data science and statistics graduate with a professional thesis on developing predictive lead models. I am passionate about data, particularly marketing analytics, evaluation models, time series, and advanced predictive models. I aim to raise awareness of these topics and foster a more active African data community.
 
@@ -11,32 +9,11 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-messan/)
 
 
-## Competitions: 🥇
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|BSidesSF CTF|soon...|movie43|05/24|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|vksCTF|top 15%| Solo played |09/2023|
-
-
-
 ### Working on: 🚀
 
-- Tweaking this README for optimal engagement 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
-
+- Lead Prediction B2C Model 
+- Marketing Topic Modeling Model 
+- Establishment of Detailed Repository for Basic Prediction Models
 
 ## Languages and Tools 
 <div>
