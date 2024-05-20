@@ -1,15 +1,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+I'm a data science and statistics graduate with a professional thesis on developing predictive lead models. I am passionate about data, particularly marketing analytics, evaluation models, time series, and advanced predictive models. I aim to raise awareness of these topics and foster a more active African data community.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-    
+Currently, I am exploring research and proposing innovative solutions through projects that span multiple domains. In my free time, I enjoy solving problems and participating in kaagle challenges.
   
 ### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+Join me on LinkedIn, where I share insights and discuss my ongoing research interests, as well as my detailed professional journey and research articles from my university.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-messan/)
+
 
 ## Competitions: 🥇
 
